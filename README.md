@@ -6,7 +6,7 @@
  * [ffmpeg](https://www.ffmpeg.org/)
 
 
-#### Seeds Simulation
+#### [Seeds](https://en.wikipedia.org/wiki/Seeds_(cellular_automaton))
 ```
 python cells.py --name seeds --n_generations 250 --w_width 500 --w_hight 500 --save_video True
 
@@ -15,7 +15,7 @@ python cells.py --name seeds --n_generations 250 --w_width 500 --w_hight 500 --s
 ![seeds](assets/seeds.gif)
 
 
-#### Brian's Brain
+#### [Brian's Brain](https://en.wikipedia.org/wiki/Brian%27s_Brain)
 ```
 python cells.py --name bbrain --n_generations 250 --w_width 500 --w_hight 500 --save_video True
 
